@@ -12,3 +12,6 @@ Analyzing a stores' sales data using pandas and power BI.
 2. train_1.xlsx - Raw dataset  
 3. PowerBI_Screenshots/ - Visual reports
 
+## Insights
+1. Sales peaked in December due to holiday demand
+2. California has the highest sales by state
